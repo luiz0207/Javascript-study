@@ -1,0 +1,22 @@
+{
+    "nome": "Luiz Henrique Da Silva Crispim",
+    "cidade": "São paulo",
+    "Telefone": 91139193123,
+    "Livros_favoritos": [
+        "neuromancer",
+        "codigo limpo",
+        "essencialismo"
+    ],
+    "hobbies": {
+        "semana": "patinação",
+        "fim_de_semana":  {
+            "sabado": "cinema",
+            "domingo": "parque",
+            "outros": [
+                "caminhada",
+                "volei",
+                "netflix"
+            ]
+        }
+    }
+}
